@@ -2,11 +2,11 @@
 
 I'm a passionate and detail-oriented game developer with 4 years of hands-on experience building immersive games using Unity and C#. I specialize in **game physics**, **AI systems**, and creating gameplay experiences that feel responsive, dynamic, and fun.
 
-Over the years, I’ve built and shipped multiple 2D and 3D games across PC, Android, and WebGL platforms, focusing on:
+Over the years, I’ve built and shipped multiple 2D and 3D games across PC, Android, VR headsets, and WebGL platforms, focusing on:
 - Realistic and arcade-style **physics-based mechanics**
 - Intelligent and adaptable **enemy AI** using behavior trees, state machines, and pathfinding
 - Performance-optimized codebases and scalable game architectures
-- 
+- Traning simulation and gameplay analytics
 
 ---
 
